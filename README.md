@@ -1,4 +1,4 @@
-## Hi, I'm Marcos Horsford! <a href="https://emoji.gg/emoji/1908_RainbowPls"><img src="https://cdn3.emoji.gg/emojis/1908_RainbowPls.gif" width="30px" height="30px" alt="RainbowPls"></a>
+## Hi, I'm Marcos Horsford! ![](https://cdn.betterttv.net/emote/5b35cae2f3a33e2b6f0058ef/1x)
 <br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosHorsford&show_icons=true&theme=merko)
@@ -24,4 +24,4 @@
 )](https://www.linkedin.com/in/marcoshorsford/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
 )](https://twitter.com/HorsfordMarcos) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
 )](https://www.facebook.com/marcoshorsford) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-)](https://www.instagram.com/marcoshorsford/)         
+)](https://www.instagram.com/marcoshorsford/)
